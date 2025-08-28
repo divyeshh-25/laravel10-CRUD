@@ -63,4 +63,5 @@ routes/
     ```bash
     php artisan migrate
 7.  Start Development Server
+    ```bash
     php artisan serve
