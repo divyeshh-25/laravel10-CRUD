@@ -34,7 +34,7 @@ resources/
 ├── views/             # Blade templates
 routes/
 └── web.php            # Routes for CRUD
-
+```
 
 ---
 
