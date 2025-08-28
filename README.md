@@ -25,14 +25,15 @@ It includes **Create, Read, Update, Delete (CRUD)** functionality along with **S
 ---
 
 ## 📂 Project Structure
+```bash
 app/
 ├── Http/
-│ └── Controllers/ # Controller logic
-├── Models/ # Eloquent models
+│   └── Controllers/   # Controller logic
+├── Models/            # Eloquent models
 resources/
-├── views/ # Blade templates
+├── views/             # Blade templates
 routes/
-└── web.php # Routes for CRUD
+└── web.php            # Routes for CRUD
 
 
 ---
